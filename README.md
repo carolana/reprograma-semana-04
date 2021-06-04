@@ -1,4 +1,7 @@
 # Semana 04: Objetos, Arrays e Métodos
 
-Essa semana foi uma semana dificil
-![gif "that is insane](https://github.com/carolana/reprograma-semana-04/blob/5f0a7aeccd7075650fbe5ef829f1275ca0cc0072/giphy.gif)
+Essa semana foi uma semana dificil, acredito eu a mais dificil até aqui (e eu achando que aprender sobre git e github seria a parte mais dificil)
+
+![gif "that is insane"](img/giphy.gif)
+
+Aprendemos sobre
