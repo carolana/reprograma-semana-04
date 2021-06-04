@@ -2,7 +2,7 @@
 
 Essa semana foi uma semana dificil, acredito eu a mais dificil até aqui (e eu achando que aprender sobre git e github seria a parte mais dificil)
 
-![gif "that is insane"](img/giphy.gif)
+![gif "that is insane"](exercicio/img/giphy.gif)
 
 # Objetos
 
@@ -90,4 +90,4 @@ O desafio da semana foi o primeiro em que pudermos fazer de forma integrada. Tiv
 
 Fazer este exercicio, desenvolver a lógica, encontrar a melhor maneira de estruturar o código foi dificil, demorou um pouco rsrs, mas ao executá-lo e ver que estava funcionando, ver o resultado do meu esforço e dedicação não teve preço.
 
-![gif "beyonce is happy"](img/happy.gif)
+![gif "beyonce is happy"](exercicio/img/happy.gif)
